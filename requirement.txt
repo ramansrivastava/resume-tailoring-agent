@@ -1,0 +1,10 @@
+crewai
+openai
+langchain
+chromadb
+pdfplumber
+python-docx
+tiktoken
+python-dotenv
+docling
+tenacity

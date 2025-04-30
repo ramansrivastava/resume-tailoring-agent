@@ -22,15 +22,4 @@ def extract_job_info(job_text):
 
     return sections
 
-# Example usage:
-job_text = """Responsibilities:
-- Manage projects
-- Lead teams
-Skills:
-- Python
-- Project Management
-Qualifications:
-- Bachelor's Degree in Engineering
-- 5+ years experience"""
-job_info = extract_job_info(job_text)
-print(job_info)
+
